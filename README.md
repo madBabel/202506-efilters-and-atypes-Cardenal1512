@@ -27,3 +27,4 @@ explorar las diferentes formas en que podemos utilizar event-filters y activity 
 10. Crear un PR para fusionar la rama `feat-1-act-Types` en `develop`. Inspeccionar el resultado de la ejecución del workflow.
 11. Edite de nuevo el archivo README.md en la rama `feat-1-act-Types`, confirme los cambios y suba (push) el código.  Inspeccionar el resultado de la ejecución del workflow.
 Cambio en feat-1-act-Types
+Otro cambio
